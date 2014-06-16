@@ -1,0 +1,5338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<card-list>
+  <cardItem>
+    <id>000</id>
+    <nameCn>狼骑兵</nameCn>
+    <nameEn>Wolfrider</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>1</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Wolfrider.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>001</id>
+    <nameCn>巫医</nameCn>
+    <nameEn>Voodoo Doctor</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：恢复2点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Voodoo Doctor.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>002</id>
+    <nameCn>石牙野猪</nameCn>
+    <nameEn>Stonetusk Boar</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stonetusk Boar.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>003</id>
+    <nameCn>森金持盾卫士</nameCn>
+    <nameEn>Sen'jin Shieldmasta</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sen_jin Shieldmasta.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>004</id>
+    <nameCn>淡水鳄</nameCn>
+    <nameEn>River Crocolisk</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/River Crocolisk .png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>005</id>
+    <nameCn>鲁莽火箭兵</nameCn>
+    <nameEn>Reckless Rocketeer</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>2</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Reckless Rocketeer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>006</id>
+    <nameCn>团队领袖</nameCn>
+    <nameEn>Raid Leader</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的其他仆从获得+1攻击。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Raid Leader.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>007</id>
+    <nameCn>绿洲钳嘴龟</nameCn>
+    <nameEn>Oasis Snapjaw</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>7</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Oasis Snapjaw.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>008</id>
+    <nameCn>工程师学徒</nameCn>
+    <nameEn>Novice Engineer</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Novice Engineer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>009</id>
+    <nameCn>夜刃刺客</nameCn>
+    <nameEn>Nightblade</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对敌方英雄造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Nightblade.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>010</id>
+    <nameCn>鱼人袭击者</nameCn>
+    <nameEn>Murloc Raider</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Murloc Raider.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>011</id>
+    <nameCn>岩浆暴怒者</nameCn>
+    <nameEn>Magma Rager</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>1</hp>
+    <ap>5</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Magma Rager.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>012</id>
+    <nameCn>石拳食人魔</nameCn>
+    <nameEn>Boulderfist Ogre</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>7</hp>
+    <ap>6</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Boulderfist Ogre.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>013</id>
+    <nameCn>血沼迅猛龙</nameCn>
+    <nameEn>Bloodfen Raptor</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bloodfen Raptor.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>014</id>
+    <nameCn>年轻的酒仙</nameCn>
+    <nameEn>Youthful Brewmaster</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从从战场上移回你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Youthful Brewmaster.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>015</id>
+    <nameCn>幼龙鹰</nameCn>
+    <nameEn>Young Dragonhawk</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>风怒</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Young Dragonhawk.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>016</id>
+    <nameCn>狼人渗透者</nameCn>
+    <nameEn>Worgen Infiltrator</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Worgen Infiltrator.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>017</id>
+    <nameCn>小精灵</nameCn>
+    <nameEn>Wisp</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>0</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Wisp.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>018</id>
+    <nameCn>风怒鹰身人</nameCn>
+    <nameEn>Windfury Harpy</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>风怒</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Windfury Harpy.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>019</id>
+    <nameCn>作战傀儡</nameCn>
+    <nameEn>War Golem</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>7</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/War Golem.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>020</id>
+    <nameCn>风险投资公司雇佣兵</nameCn>
+    <nameEn>Venture Co. Mercenary</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>6</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的随从牌的法力值消耗增加（3）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Venture Co. Mercenary.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>021</id>
+    <nameCn>萨尔玛先知</nameCn>
+    <nameEn>Thrallmar Farseer</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>风怒</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Thrallmar Farseer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>022</id>
+    <nameCn>牛头人战士</nameCn>
+    <nameEn>Tauren Warrior</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>嘲讽，激怒：+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Tauren Warrior.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>023</id>
+    <nameCn>荆棘谷猛虎</nameCn>
+    <nameEn>Stranglethorn Tiger</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stranglethorn Tiger.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>024</id>
+    <nameCn>暴风城骑士</nameCn>
+    <nameEn>Stormwind Knight</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stormwind Knight.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>025</id>
+    <nameCn>暴风城勇士</nameCn>
+    <nameEn>Stormwind Champion</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>6</hp>
+    <ap>6</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的其他随从获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stormwind Champion.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>026</id>
+    <nameCn>雷矛特种兵</nameCn>
+    <nameEn>Stormpike Commando</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stormpike Commando.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>027</id>
+    <nameCn>恶毒铁匠</nameCn>
+    <nameEn>Spiteful Smith</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>6</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>激怒：你的武器获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Spiteful Smith.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>028</id>
+    <nameCn>破法者</nameCn>
+    <nameEn>Spellbreaker</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：沉默一个随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Spellbreaker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>029</id>
+    <nameCn>南海船工</nameCn>
+    <nameEn>Southsea Deckhand</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>当你装备一把武器时，该随从获得冲锋。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Southsea Deckhand.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>030</id>
+    <nameCn>银月城卫兵</nameCn>
+    <nameEn>Silvermoon Guardian</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>圣盾</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Silvermoon Guardian.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>031</id>
+    <nameCn>银背族长</nameCn>
+    <nameEn>Silverback Patriarch</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>4</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Silverback Patriarch.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>032</id>
+    <nameCn>白银之手骑士</nameCn>
+    <nameEn>Silver Hand Knight</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：召唤一个2/2的侍从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Silver Hand Knight.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>033</id>
+    <nameCn>持盾卫士</nameCn>
+    <nameEn>Shieldbearer</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>4</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shieldbearer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>034</id>
+    <nameCn>破碎残阳祭司</nameCn>
+    <nameEn>Shattered Sun Cleric</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shattered Sun Cleric.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>035</id>
+    <nameCn>年迈的酒仙</nameCn>
+    <nameEn>Ancient Brewmaster</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从从战场上移回你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancient Brewmaster.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>036</id>
+    <nameCn>阿曼尼狂战士</nameCn>
+    <nameEn>Amani Berserker</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>激怒：+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Amani Berserker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>037</id>
+    <nameCn>苦痛侍僧</nameCn>
+    <nameEn>Acolyte of Pain</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当该随从受到伤害时，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Acolyte of Pain.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>038</id>
+    <nameCn>奥术傀儡</nameCn>
+    <nameEn>Arcane Golem</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>冲锋，战吼：使你的对手获得一个法力水晶。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcane Golem.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>039</id>
+    <nameCn>血色十字军战士</nameCn>
+    <nameEn>Scarlet Crusader</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>1</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>圣盾</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Scarlet Crusader.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>040</id>
+    <nameCn>剃刀猎手</nameCn>
+    <nameEn>Razorfen Hunter</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：召唤一个1/1的野猪。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Razorfen Hunter.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>041</id>
+    <nameCn>暴怒的狼人</nameCn>
+    <nameEn>Raging Worgen</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>激怒：+1攻击力并具有风怒。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Raging Worgen.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>042</id>
+    <nameCn>任务达人</nameCn>
+    <nameEn>Questing Adventurer</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你使用一张牌时，便获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Questing Adventurer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>043</id>
+    <nameCn>艾露恩的女祭司</nameCn>
+    <nameEn>Priestess of Elune</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>4</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：为你的英雄恢复4点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Priestess of Elune.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>044</id>
+    <nameCn>食人魔法师</nameCn>
+    <nameEn>Ogre Magi</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>法术伤害+1</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ogre Magi.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>045</id>
+    <nameCn>鱼人猎潮者</nameCn>
+    <nameEn>Murloc Tidehunter</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：召唤一个1/1的鱼人斥候。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Murloc Tidehunter.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>047</id>
+    <nameCn>疯狂投弹者</nameCn>
+    <nameEn>Mad Bomber</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成3点伤害，随机由所有其他角色分摊。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mad Bomber.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>048</id>
+    <nameCn>竞技场主宰</nameCn>
+    <nameEn>Lord of the Arena</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>6</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lord of the Arena.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>049</id>
+    <nameCn>战利品贮藏者</nameCn>
+    <nameEn>Loot Hoarder</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>亡语：抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Loot Hoarder.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>050</id>
+    <nameCn>麻疯侏儒</nameCn>
+    <nameEn>Leper Gnome</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>亡语：对敌方英雄造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Leper Gnome.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>051</id>
+    <nameCn>狗头人地卜师</nameCn>
+    <nameEn>Kobold Geomancer</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>法术伤害+1</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Kobold Geomancer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>052</id>
+    <nameCn>丛林猎豹</nameCn>
+    <nameEn>Jungle Panther</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Jungle Panther.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>053</id>
+    <nameCn>铁鬃灰熊</nameCn>
+    <nameEn>Ironfur Grizzly</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ironfur Grizzly.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>054</id>
+    <nameCn>铁炉堡火枪手</nameCn>
+    <nameEn>Ironforge Rifleman</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ironforge Rifleman.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>055</id>
+    <nameCn>铁喙猫头鹰</nameCn>
+    <nameEn>Ironbeak Owl</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：沉默一个随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ironbeak Owl.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>056</id>
+    <nameCn>麦田傀儡</nameCn>
+    <nameEn>Harvest Golem</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>亡语：召唤一个2/1的损坏的傀儡。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Harvest Golem.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>057</id>
+    <nameCn>古拉巴什狂暴者</nameCn>
+    <nameEn>Gurubashi Berserker</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>7</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当该随从受到伤害时，获得+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gurubashi Berserker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>058</id>
+    <nameCn>暗鳞先知</nameCn>
+    <nameEn>Grimscale Oracle</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>所有其他鱼人获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Grimscale Oracle.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>059</id>
+    <nameCn>闪金镇步兵</nameCn>
+    <nameEn>Goldshire Footman</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Goldshire Footman.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>060</id>
+    <nameCn>侏儒发明家</nameCn>
+    <nameEn>Gnomish Inventor</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gnomish Inventor.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>061</id>
+    <nameCn>霜狼督军</nameCn>
+    <nameEn>Frostwolf Warlord</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：战场上每有1个其他友方随从，便获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frostwolf Warlord.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>062</id>
+    <nameCn>霜狼步兵</nameCn>
+    <nameEn>Frostwolf Grunt</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frostwolf Grunt.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>063</id>
+    <nameCn>冰霜元素</nameCn>
+    <nameEn>Frost Elemental</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：冻结一个角色。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frost Elemental.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>064</id>
+    <nameCn>沼泽爬行者</nameCn>
+    <nameEn>Fen Creeper</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>6</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Fen Creeper.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>065</id>
+    <nameCn>精灵龙</nameCn>
+    <nameEn>Faerie Dragon</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>无法成为法术或者英雄技能的目标。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Faerie Dragon.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>066</id>
+    <nameCn>精灵弓箭手</nameCn>
+    <nameEn>Elven Archer</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Elven Archer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>067</id>
+    <nameCn>大地之环先知</nameCn>
+    <nameEn>Earthen Ring Farseer</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：恢复3点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Earthen Ring Farseer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>068</id>
+    <nameCn>恐怖海盗</nameCn>
+    <nameEn>Dread Corsair</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽。消耗降低，降低数值相当于你的武器攻击。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dread Corsair.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>069</id>
+    <nameCn>机械幼龙技工</nameCn>
+    <nameEn>Dragonling Mechanic</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：召唤一个2/1的机械幼龙。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dragonling Mechanic.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>070</id>
+    <nameCn>恐狼前锋</nameCn>
+    <nameEn>Dire Wolf Alpha</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>相邻的随从获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dire Wolf Alpha.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>071</id>
+    <nameCn>暗鳞治愈者</nameCn>
+    <nameEn>Darkscale Healer</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：为所有友方角色恢复2点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Darkscale Healer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>072</id>
+    <nameCn>黑铁矮人</nameCn>
+    <nameEn>Dark Iron Dwarf</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：在本回合中，使一个随从获得 +2 攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dark Iron Dwarf.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>073</id>
+    <nameCn>达拉然法师</nameCn>
+    <nameEn>Dalaran Mage</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>4</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>法术伤害+1</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dalaran Mage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>074</id>
+    <nameCn>诅咒教派领袖</nameCn>
+    <nameEn>Cult Master</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当你的其他随从死亡时，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cult Master.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>075</id>
+    <nameCn>熔火恶犬</nameCn>
+    <nameEn>Core Hound</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>5</hp>
+    <ap>9</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Core Hound.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>076</id>
+    <nameCn>冰风雪人</nameCn>
+    <nameEn>Chillwind Yeti</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Chillwind Yeti.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>077</id>
+    <nameCn>藏宝海湾保镖</nameCn>
+    <nameEn>Booty Bay Bodyguard</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Booty Bay Bodyguard.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>078</id>
+    <nameCn>蓝腮战士</nameCn>
+    <nameEn>Bluegill Warrior</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bluegill Warrior.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>079</id>
+    <nameCn>血帆袭击者</nameCn>
+    <nameEn>Bloodsail Raider</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：获得等同于你的武器攻击力的攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bloodsail Raider.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>080</id>
+    <nameCn>银色侍从</nameCn>
+    <nameEn>Argent Squire</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>圣盾</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Argent Squire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>081</id>
+    <nameCn>大法师</nameCn>
+    <nameEn>Archmage</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>7</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>法术伤害+1</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Archmage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>082</id>
+    <nameCn>酸性沼泽软泥怪</nameCn>
+    <nameEn>Acidic Swamp Ooze</nameEn>
+    <occupation>中立</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：摧毁你的对手的武器。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Acidic Swamp Ooze.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>083</id>
+    <nameCn>叫嚣的中士</nameCn>
+    <nameEn>Abusive Sergeant</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：在本回合中，使一个随从获得 +2 攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Abusive Sergeant.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>084</id>
+    <nameCn>年轻的女祭司</nameCn>
+    <nameEn>Young Priestess</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合结束时，使另一个随机友方随从获得+1生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Young Priestess.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>085</id>
+    <nameCn>狂野炎术师</nameCn>
+    <nameEn>Wild Pyromancer</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你施放一个法术时，对所有随从造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Wild Pyromancer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>086</id>
+    <nameCn>紫罗兰教师</nameCn>
+    <nameEn>Violet Teacher</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当你施放一个法术时，召唤一个1/1的紫罗兰学徒。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Violet Teacher.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>087</id>
+    <nameCn>暮光幼龙</nameCn>
+    <nameEn>Twilight Drake</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：你的每张手牌都会令暮光幼龙获得1次+1/+1效果。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Twilight Drake.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>088</id>
+    <nameCn>烈日行者</nameCn>
+    <nameEn>Sunwalker</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>嘲讽。圣盾。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sunwalker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>089</id>
+    <nameCn>日怒保卫者</nameCn>
+    <nameEn>Sunfury Protector</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使邻近的随从获得嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sunfury Protector.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>090</id>
+    <nameCn>狂奔科多兽</nameCn>
+    <nameEn>Stampeding Kodo</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>战吼：随机消灭一个攻击力小于或等于2的敌方随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stampeding Kodo.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>091</id>
+    <nameCn>奥秘守护者</nameCn>
+    <nameEn>Secretkeeper</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当有一张奥秘牌被揭示时，便获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Secretkeeper.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>092</id>
+    <nameCn>拉文霍德刺客</nameCn>
+    <nameEn>Ravenholdt Assassin</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>5</hp>
+    <ap>7</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ravenholdt Assassin.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>093</id>
+    <nameCn>小个子召唤师</nameCn>
+    <nameEn>Pint-Sized Summoner</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>你每个回合使用的第一张随从牌的法力值消耗减少（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Pint-Sized Summoner.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>094</id>
+    <nameCn>鱼人招潮者</nameCn>
+    <nameEn>Murloc Tidecaller</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当有玩家召唤一个鱼人时，便获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Murloc Tidecaller.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>095</id>
+    <nameCn>精神控制技师</nameCn>
+    <nameEn>Mind Control Tech</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：如果你的对手拥有4个或者更多随从，随机控制其中一个。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mind Control Tech.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>096</id>
+    <nameCn>铸剑师</nameCn>
+    <nameEn>Master Swordsmith</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合结束时，随机使另一个友方随从获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Master Swordsmith.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>097</id>
+    <nameCn>法力怨魂</nameCn>
+    <nameEn>Mana Wraith</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>召唤所有随从的法力值消耗增加（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mana Wraith.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>098</id>
+    <nameCn>魔瘾者</nameCn>
+    <nameEn>Mana Addict</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，每当你施放一个法术，便获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mana Addict.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>099</id>
+    <nameCn>圣光护卫者</nameCn>
+    <nameEn>Lightwarden</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当一个角色获得治疗时，便获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lightwarden.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>100</id>
+    <nameCn>飞刀杂耍者</nameCn>
+    <nameEn>Knife Juggler</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你召唤一个随从时，对一个随机敌方角色造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Knife Juggler.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>101</id>
+    <nameCn>负伤剑圣</nameCn>
+    <nameEn>Injured Blademaster</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>7</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对自身造成4点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Injured Blademaster.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>102</id>
+    <nameCn>小鬼召唤师</nameCn>
+    <nameEn>Imp Master</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>5</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>在你的回合结束时，对该随从造成1点伤害，并召唤一个1/1的小鬼。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Imp Master.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>103</id>
+    <nameCn>加基森拍卖师</nameCn>
+    <nameEn>Gadgetzan Auctioneer</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当你施放一个法术时，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gadgetzan Auctioneer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>104</id>
+    <nameCn>腐肉食尸鬼</nameCn>
+    <nameEn>Flesheating Ghoul</nameEn>
+    <occupation>中立</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当一个随从死亡时，获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Flesheating Ghoul.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>105</id>
+    <nameCn>帝王眼镜蛇</nameCn>
+    <nameEn>Emperor Cobra</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭任何受到该随从伤害的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Emperor Cobra.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>106</id>
+    <nameCn>攻城车</nameCn>
+    <nameEn>Demolisher</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>4</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合开始时，对1个随机敌人造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Demolisher.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>107</id>
+    <nameCn>阿古斯防御者</nameCn>
+    <nameEn>Defender of Argus</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：使相邻的随从获得+1/+1和嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Defender of Argus.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>108</id>
+    <nameCn>疯狂的炼金师</nameCn>
+    <nameEn>Crazed Alchemist</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个随从的攻击力和生命值互换。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Crazed Alchemist.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>109</id>
+    <nameCn>寒光先知</nameCn>
+    <nameEn>Coldlight Seer</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使所有其他鱼人获得+2生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Coldlight Seer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>110</id>
+    <nameCn>寒光智者</nameCn>
+    <nameEn>Coldlight Oracle</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：每个玩家抽2张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Coldlight Oracle.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>111</id>
+    <nameCn>血帆海盗</nameCn>
+    <nameEn>Bloodsail Corsair</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>战吼：使对手的武器失去1点耐久度。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bloodsail Corsair.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>112</id>
+    <nameCn>碧蓝幼龙</nameCn>
+    <nameEn>Azure Drake</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>3</skillNum>
+    <skillDesc>法术伤害+1，战吼：抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Azure Drake.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>113</id>
+    <nameCn>银色指挥官</nameCn>
+    <nameEn>Argent Commander</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>冲锋，圣盾。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Argent Commander.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>114</id>
+    <nameCn>愤怒的小鸡</nameCn>
+    <nameEn>Angry Chicken</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>激怒：+5攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Angry Chicken.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>115</id>
+    <nameCn>上古看守者</nameCn>
+    <nameEn>Ancient Watcher</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc>无法攻击。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancient Watcher.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>116</id>
+    <nameCn>年迈的法师</nameCn>
+    <nameEn>Ancient Mage</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：使相邻的随从获得法术伤害+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancient Mage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>117</id>
+    <nameCn>报警机器人</nameCn>
+    <nameEn>Alarm-o-Bot</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合开始时，随机将你的手牌中的一张随从牌与该随从交换。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Alarm-o-Bot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>118</id>
+    <nameCn>憎恶</nameCn>
+    <nameEn>Abomination</nameEn>
+    <occupation>中立</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>嘲讽，亡语：对所有角色造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Abomination.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>119</id>
+    <nameCn>南海船长</nameCn>
+    <nameEn>Southsea Captain</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的其他海盗获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Southsea Captain.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>120</id>
+    <nameCn>海巨人</nameCn>
+    <nameEn>Sea Giant</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>10</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum></skillNum>
+    <skillDesc>战场上每有一个其他随从，该牌的法力值消耗便减少（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sea Giant.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>121</id>
+    <nameCn>鱼人领军</nameCn>
+    <nameEn>Murloc Warleader</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>所有其他鱼人获得+2/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Murloc Warleader.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>122</id>
+    <nameCn>山岭巨人</nameCn>
+    <nameEn>Mountain Giant</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>12</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum></skillNum>
+    <skillDesc>你每有一张其他手牌，该牌的法力值消耗便减少（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mountain Giant.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>123</id>
+    <nameCn>熔核巨人</nameCn>
+    <nameEn>Molten Giant</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>20</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的英雄每受到1点伤害，这张牌的法力值消耗便减少（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Molten Giant.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>124</id>
+    <nameCn>鱼人杀手蟹</nameCn>
+    <nameEn>Hungry Crab</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：消灭一个鱼人，并获得+2/+2。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hungry Crab.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>125</id>
+    <nameCn>无面操纵者</nameCn>
+    <nameEn>Faceless Manipulator</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：选择一个随从，成为它的复制。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Faceless Manipulator.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>126</id>
+    <nameCn>末日预言者</nameCn>
+    <nameEn>Doomsayer</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>7</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合开始时，消灭所有随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Doomsayer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>127</id>
+    <nameCn>船长的鹦鹉</nameCn>
+    <nameEn>Captain's Parrot</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：随机从你的牌库中将一张海盗牌置入你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Captain_s Parrot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>128</id>
+    <nameCn>血骑士</nameCn>
+    <nameEn>Blood Knight</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：所有随从失去圣盾。每有一个随从失去圣盾，便获得+3/+3。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blood Knight.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>129</id>
+    <nameCn>王牌猎人</nameCn>
+    <nameEn>Big Game Hunter</nameEn>
+    <occupation>中立</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：消灭一个攻击力大于或等于7的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Big Game Hunter.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>130</id>
+    <nameCn>伊瑟拉</nameCn>
+    <nameEn>Ysera</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>12</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合结束时，获得一张梦境牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ysera.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>131</id>
+    <nameCn>工匠大师欧沃斯巴克</nameCn>
+    <nameEn>Tinkmaster Overspark</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个随从随机变形成为一个5/5的恐龙或一个1/1的松鼠。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Tinkmaster Overspark.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>132</id>
+    <nameCn>黑骑士</nameCn>
+    <nameEn>The Black Knight</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：消灭一个具有嘲讽的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/The Black Knight.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>133</id>
+    <nameCn>比斯巨兽</nameCn>
+    <nameEn>The Beast</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>6</hp>
+    <ap>10</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>亡语：为你的对手召唤1个3/3的芬克·恩霍尔。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/The Beast.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>134</id>
+    <nameCn>希尔瓦娜斯·风行者</nameCn>
+    <nameEn>Sylvanas Windrunner</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>亡语：控制一个随机敌方随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sylvanas Windrunner.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>135</id>
+    <nameCn>精英牛头人酋长</nameCn>
+    <nameEn>Elite Tauren Chieftain</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：让两位玩家都具有摇滚的能力！（双方各获得一张强力和弦牌）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Elite Tauren Chieftain.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>136</id>
+    <nameCn>炎魔之王拉格纳罗斯</nameCn>
+    <nameEn>Ragnaros the Firelord</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>8</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum></skillNum>
+    <skillDesc>无法攻击，在你的回合结束时，对一个随机敌人造成8点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ragnaros the Firelord.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>137</id>
+    <nameCn>奥妮克希亚</nameCn>
+    <nameEn>Onyxia</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：召唤数个1/1的雏龙，直到你的随从数量达到上限。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Onyxia.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>138</id>
+    <nameCn>老瞎眼</nameCn>
+    <nameEn>Old Murk-Eye</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>冲锋，在战场上每有一个其他鱼人便获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Old Murk-Eye.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>139</id>
+    <nameCn>诺兹多姆</nameCn>
+    <nameEn>Nozdormu</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum></skillNum>
+    <skillDesc>所有玩家只有15秒的时间来进行他们的回合。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Nozdormu.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>140</id>
+    <nameCn>纳特·帕格</nameCn>
+    <nameEn>Nat Pagle</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>4</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>在你的回合结束时，你有50%的几率抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Nat Pagle.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>141</id>
+    <nameCn>米尔豪斯·法力风暴</nameCn>
+    <nameEn>Millhouse Manastorm</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：下个回合敌方法术的法力值消耗为（0）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Millhouse Manastorm.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>142</id>
+    <nameCn>玛里苟斯</nameCn>
+    <nameEn>Malygos</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>12</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc>法术伤害+5</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Malygos.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>143</id>
+    <nameCn>游学者周卓</nameCn>
+    <nameEn>Lorewalker Cho</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>4</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当一个玩家施放一个法术时，复制该法术，将其置入另一个玩家的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lorewalker Cho.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>144</id>
+    <nameCn>火车王里诺艾</nameCn>
+    <nameEn>Leeroy Jenkins</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>2</hp>
+    <ap>6</ap>
+    <skillNum>3</skillNum>
+    <skillDesc>冲锋，战吼：为你的对手召唤2只1/1的雏龙。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Leeroy Jenkins.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>145</id>
+    <nameCn>穆克拉</nameCn>
+    <nameEn>King Mukla</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使你的对手获得2个香蕉。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/King Mukla.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>146</id>
+    <nameCn>伊利丹·怒风</nameCn>
+    <nameEn>Illidan Stormrage</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>7</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当你使用一张牌时，召唤一个2/1的埃辛诺斯烈焰。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Illidan Stormrage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>147</id>
+    <nameCn>霍格</nameCn>
+    <nameEn>Hogger</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>在你的回合结束时，召唤一个2/2并具有嘲讽的豺狼人。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hogger.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>148</id>
+    <nameCn>哈里森·琼斯</nameCn>
+    <nameEn>Harrison Jones</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：摧毁对手的武器，并抽数量等同于其耐久度的牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Harrison Jones.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>149</id>
+    <nameCn>格鲁尔</nameCn>
+    <nameEn>Gruul</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>8</mp>
+    <hp>7</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc>在每个回合结束时，获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gruul.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>150</id>
+    <nameCn>格尔宾·梅卡托克</nameCn>
+    <nameEn>Gelbin Mekkatorque</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>6</hp>
+    <ap>6</ap>
+    <skillNum></skillNum>
+    <skillDesc>战吼：进行一次惊人的发明。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gelbin Mekkatorque.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>151</id>
+    <nameCn>死亡之翼</nameCn>
+    <nameEn>Deathwing</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>10</mp>
+    <hp>12</hp>
+    <ap>12</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：消灭所有其他随从，并弃掉你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Deathwing.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>152</id>
+    <nameCn>绿皮船长</nameCn>
+    <nameEn>Captain Greenskin</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使你的武器获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Captain Greenskin.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>153</id>
+    <nameCn>凯恩·血蹄</nameCn>
+    <nameEn>Cairne Bloodhoof</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>亡语：召唤一个4/5的贝恩·血蹄。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cairne Bloodhoof.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>154</id>
+    <nameCn>血法师萨尔诺斯</nameCn>
+    <nameEn>Bloodmage Thalnos</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>3</skillNum>
+    <skillDesc>法术伤害+1，亡语：抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bloodmage Thalnos.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>155</id>
+    <nameCn>迦顿男爵</nameCn>
+    <nameEn>Baron Geddon</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>5</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合结束时，对所有其他角色造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Baron Geddon.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>156</id>
+    <nameCn>阿莱克丝塔萨</nameCn>
+    <nameEn>Alexstrasza</nameEn>
+    <occupation>中立</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个英雄的剩余生命值成为15。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Alexstrasza.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>157</id>
+    <nameCn>战歌指挥官</nameCn>
+    <nameEn>Warsong Commander</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你召唤一个攻击力小于或等于 3 的随从，使该随从获得冲锋。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Warsong Commander.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>158</id>
+    <nameCn>英勇打击</nameCn>
+    <nameEn>Heroic Strike</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，使你的英雄获得+4攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Heroic Strike.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>159</id>
+    <nameCn>炽炎战斧</nameCn>
+    <nameEn>Fiery War Axe</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>装备</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Fiery War Axe.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>160</id>
+    <nameCn>斩杀</nameCn>
+    <nameEn>Execute</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个受过伤害的敌方随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Execute.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>161</id>
+    <nameCn>冲锋</nameCn>
+    <nameEn>Charge</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个友方随从获得 +2 攻击力和冲锋。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Charge.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>162</id>
+    <nameCn>旋风斩</nameCn>
+    <nameEn>Whirlwind</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有随从造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Whirlwind.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>163</id>
+    <nameCn>猛击</nameCn>
+    <nameEn>Slam</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对一个随从造成2点伤害，如果它依然存活，则抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Slam.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>164</id>
+    <nameCn>盾牌格挡</nameCn>
+    <nameEn>Shield Block</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>获得5点护甲。抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shield Block.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>165</id>
+    <nameCn>狂暴</nameCn>
+    <nameEn>Rampage</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个受过伤害的随从获得+3/+3。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Rampage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>166</id>
+    <nameCn>库卡隆精英卫士</nameCn>
+    <nameEn>Kor'kron Elite</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Kor_kron Elite.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>167</id>
+    <nameCn>怒火中烧</nameCn>
+    <nameEn>Inner Rage</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对一个随从造成1点伤害，该随从获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Inner Rage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>168</id>
+    <nameCn>严酷的监工</nameCn>
+    <nameEn>Cruel Taskmaster</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对一个随从造成1点伤害，并使其获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cruel Taskmaster.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>169</id>
+    <nameCn>顺劈斩</nameCn>
+    <nameEn>Cleave</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对2个随机敌方随从造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cleave.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>170</id>
+    <nameCn>战斗怒火</nameCn>
+    <nameEn>Battle Rage</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每有一个受到伤害的友方角色，便抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Battle Rage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>171</id>
+    <nameCn>奥金斧</nameCn>
+    <nameEn>Arcanite Reaper</nameEn>
+    <occupation>战士</occupation>
+    <rare>免费</rare>
+    <type>装备</type>
+    <mp>5</mp>
+    <hp>2</hp>
+    <ap>5</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcanite Reaper.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>172</id>
+    <nameCn>阿拉希武器匠</nameCn>
+    <nameEn>Arathi Weaponsmith</nameEn>
+    <occupation>战士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：装备一把2/2的武器。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arathi Weaponsmith.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>173</id>
+    <nameCn>升级！</nameCn>
+    <nameEn>Upgrade!</nameEn>
+    <occupation>战士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>如果你有一把武器，使它获得+1/+1。否则，装备一把1/3的武器。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Upgrade!.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>174</id>
+    <nameCn>致死打击</nameCn>
+    <nameEn>Mortal Strike</nameEn>
+    <occupation>战士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成4点伤害；如果你的英雄的生命值小于或等于12点，则改为造成6点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mortal Strike.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>175</id>
+    <nameCn>暴乱狂战士</nameCn>
+    <nameEn>Frothing Berserker</nameEn>
+    <occupation>战士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当一个随从受到伤害时，便获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frothing Berserker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>176</id>
+    <nameCn>命令怒吼</nameCn>
+    <nameEn>Commanding Shout</nameEn>
+    <occupation>战士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>本回合内，你仆从的血量无法低于1点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Commanding Shout.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>177</id>
+    <nameCn>铸甲师</nameCn>
+    <nameEn>Armorsmith</nameEn>
+    <occupation>战士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>4</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当一个友方随从受到伤害，便获得1点护甲值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Armorsmith.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>178</id>
+    <nameCn>盾牌猛击</nameCn>
+    <nameEn>Shield Slam</nameEn>
+    <occupation>战士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>你每有1点护甲值，便对一个随从造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shield Slam.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>179</id>
+    <nameCn>血吼</nameCn>
+    <nameEn>Gorehowl</nameEn>
+    <occupation>战士</occupation>
+    <rare>史诗</rare>
+    <type>装备</type>
+    <mp>7</mp>
+    <hp>1</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc>攻击随从不会消耗耐久度，改为降低1点攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gorehowl.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>180</id>
+    <nameCn>绝命乱斗</nameCn>
+    <nameEn>Brawl</nameEn>
+    <occupation>战士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>随机选择一个随从，消灭除了该随从外的所有其他随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Brawl.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>181</id>
+    <nameCn>格罗玛什·地狱咆哮</nameCn>
+    <nameEn>Grom Hellscream</nameEn>
+    <occupation>战士</occupation>
+    <rare>传说</rare>
+    <type></type>
+    <mp>8</mp>
+    <hp>9</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>冲锋，激怒：+6攻击力</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Grom Hellscream.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>182</id>
+    <nameCn>虚空行者</nameCn>
+    <nameEn>Voidwalker</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Voidwalker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>183</id>
+    <nameCn>魅魔</nameCn>
+    <nameEn>Succubus</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：随机弃一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Succubus.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>184</id>
+    <nameCn>暗影箭</nameCn>
+    <nameEn>Shadow Bolt</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对1名随从造成4点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadow Bolt.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>185</id>
+    <nameCn>地狱烈焰</nameCn>
+    <nameEn>Hellfire</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有角色造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hellfire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>186</id>
+    <nameCn>吸取生命</nameCn>
+    <nameEn>Drain Life</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成2点伤害，为你的英雄恢复2点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Drain Life.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>187</id>
+    <nameCn>召唤传送门</nameCn>
+    <nameEn>Summoning Portal</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的随从牌法力值消耗减少（2）点，但是不能少于（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Summoning Portal.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>188</id>
+    <nameCn>灵魂之火</nameCn>
+    <nameEn>Soulfire</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成4点伤害，随机弃一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Soulfire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>189</id>
+    <nameCn>感知恶魔</nameCn>
+    <nameEn>Sense Demons</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>从你的牌库中随机将2张恶魔牌置入你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sense Demons.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>190</id>
+    <nameCn>牺牲契约</nameCn>
+    <nameEn>Sacrificial Pact</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>牺牲一个恶魔，为你的英雄恢复5点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sacrificial Pact.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>191</id>
+    <nameCn>力量的代价</nameCn>
+    <nameEn>Power Overwhelming</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>直到回合结束，使一个友方随从获得+4/+4，然后将其消灭。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Power Overwhelming.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>192</id>
+    <nameCn>死亡缠绕</nameCn>
+    <nameEn>Mortal Coil</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对一个随从造成1点伤害，如果死亡缠绕将其杀死，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mortal Coil.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>193</id>
+    <nameCn>烈焰小鬼</nameCn>
+    <nameEn>Flame Imp</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对你的英雄造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Flame Imp.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>194</id>
+    <nameCn>恐惧地狱火</nameCn>
+    <nameEn>Dread Infernal</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>6</hp>
+    <ap>6</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对所有其他角色造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dread Infernal.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>195</id>
+    <nameCn>恶魔之火</nameCn>
+    <nameEn>Demonfire</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对一个随从造成2点伤害，如果该随从是友方恶魔，则改为使其获得+2/+2。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Demonfire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>196</id>
+    <nameCn>腐蚀术</nameCn>
+    <nameEn>Corruption</nameEn>
+    <occupation>术士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>选择一个敌方随从，在你的回合开始时，消灭该随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Corruption.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>197</id>
+    <nameCn>鲜血小鬼</nameCn>
+    <nameEn>Blood Imp</nameEn>
+    <occupation>术士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行，在你的回合结束时，随机使一个其他友方随从获得+1 生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blood Imp.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>198</id>
+    <nameCn>虚空恐魔</nameCn>
+    <nameEn>Void Terror</nameEn>
+    <occupation>术士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>战吼：消灭该随从两侧的随从，并获得他们的攻击力和生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Void Terror.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>199</id>
+    <nameCn>灵魂虹吸</nameCn>
+    <nameEn>Siphon Soul</nameEn>
+    <occupation>术士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个随从，为你的英雄恢复3点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Siphon Soul.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>200</id>
+    <nameCn>暗影烈焰</nameCn>
+    <nameEn>Shadowflame</nameEn>
+    <occupation>术士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadowflame.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>201</id>
+    <nameCn>恶魔卫士</nameCn>
+    <nameEn>Felguard</nameEn>
+    <occupation>术士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>嘲讽，战吼：摧毁你的一个法力水晶。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Felguard.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>202</id>
+    <nameCn>末日守卫</nameCn>
+    <nameEn>Doomguard</nameEn>
+    <occupation>术士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>7</hp>
+    <ap>5</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>冲锋，战吼：随机弃2张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Doomguard.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>203</id>
+    <nameCn>扭曲虚空</nameCn>
+    <nameEn>Twisting Nether</nameEn>
+    <occupation>术士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>8</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭所有随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Twisting Nether.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>204</id>
+    <nameCn>深渊领主</nameCn>
+    <nameEn>Pit Lord</nameEn>
+    <occupation>术士</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>6</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：对你的英雄造成5点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Pit Lord.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>205</id>
+    <nameCn>末日灾祸</nameCn>
+    <nameEn>Bane of Doom</nameEn>
+    <occupation>术士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对一个角色造成2点伤害，如果末日灾祸杀死该角色，随机召唤一个恶魔。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bane of Doom.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>206</id>
+    <nameCn>加拉克苏斯大王</nameCn>
+    <nameEn>Lord Jaraxxus</nameEn>
+    <occupation>术士</occupation>
+    <rare>传说</rare>
+    <type></type>
+    <mp>9</mp>
+    <hp>15</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：消灭你的英雄，并用加拉克苏斯大王替换他。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lord Jaraxxus.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>207</id>
+    <nameCn>圣光的正义</nameCn>
+    <nameEn>Light's Justice</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>装备</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Light_s Justice.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>208</id>
+    <nameCn>圣光术</nameCn>
+    <nameEn>Holy Light</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>恢复6点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Holy Light.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>209</id>
+    <nameCn>保护之手</nameCn>
+    <nameEn>Hand of Protection</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从获得圣盾。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hand of Protection.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>210</id>
+    <nameCn>愤怒之锤</nameCn>
+    <nameEn>Hammer of Wrath</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>造成3点伤害，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hammer of Wrath.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>211</id>
+    <nameCn>力量祝福</nameCn>
+    <nameEn>Blessing of Might</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从获得+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blessing of Might.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>212</id>
+    <nameCn>真银圣剑</nameCn>
+    <nameEn>Truesilver Champion</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>装备</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>4</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你的英雄进攻时，为其恢复2点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Truesilver Champion.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>213</id>
+    <nameCn>忏悔</nameCn>
+    <nameEn>Repentance</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当你的对手召唤一个随从，使该随从的生命值降为1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Repentance.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>214</id>
+    <nameCn>救赎</nameCn>
+    <nameEn>Redemption</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当一个你的随从死亡时，使其回到战场，并具有1点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Redemption.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>215</id>
+    <nameCn>崇高牺牲</nameCn>
+    <nameEn>Noble Sacrifice</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：每当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Noble Sacrifice.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>216</id>
+    <nameCn>谦逊</nameCn>
+    <nameEn>Humility</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从的攻击力变为1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Humility.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>217</id>
+    <nameCn>列王守卫</nameCn>
+    <nameEn>Guardian of Kings</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>6</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：为你的英雄恢复6点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Guardian of Kings.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>218</id>
+    <nameCn>以眼还眼</nameCn>
+    <nameEn>Eye for an Eye</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：每当你的英雄受到伤害时，对敌方英雄造成等量的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Eye for an Eye.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>219</id>
+    <nameCn>奉献</nameCn>
+    <nameEn>Consecration</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有敌人造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Consecration.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>220</id>
+    <nameCn>智慧祝福</nameCn>
+    <nameEn>Blessing of Wisdom</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>选择一个随从，每当它进行攻击时，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blessing of Wisdom.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>221</id>
+    <nameCn>王者祝福</nameCn>
+    <nameEn>Blessing of Kings</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从获得+4/+4。（+4攻击力/+4生命值）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blessing of Kings.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>222</id>
+    <nameCn>银色保卫者</nameCn>
+    <nameEn>Argent Protector</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：使一个友方随从获得圣盾。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Argent Protector.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>223</id>
+    <nameCn>神圣愤怒</nameCn>
+    <nameEn>Holy Wrath</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抽一张牌，并造成等同于其法力值消耗的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Holy Wrath.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>224</id>
+    <nameCn>生而平等</nameCn>
+    <nameEn>Equality</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>将所有随从的生命值变为1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Equality.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>225</id>
+    <nameCn>神恩术</nameCn>
+    <nameEn>Divine Favor</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抽若干数量的牌，直到你的手牌数量等同于你的对手的手牌数量。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Divine Favor.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>226</id>
+    <nameCn>受祝福的勇士</nameCn>
+    <nameEn>Blessed Champion</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从的攻击力翻倍。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blessed Champion.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>227</id>
+    <nameCn>奥尔多卫士</nameCn>
+    <nameEn>Aldor Peacekeeper</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个敌方随从的攻击力变为1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Aldor Peacekeeper.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>228</id>
+    <nameCn>公正之剑</nameCn>
+    <nameEn>Sword of Justice</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>史诗</rare>
+    <type>装备</type>
+    <mp>3</mp>
+    <hp></hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你召唤一个随从，使它获得+1/+1，这把武器失去1点耐久度。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sword of Justice.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>229</id>
+    <nameCn>圣疗术</nameCn>
+    <nameEn>Lay on Hands</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>8</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>恢复8点生命。抽3张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lay on Hands.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>230</id>
+    <nameCn>复仇之怒</nameCn>
+    <nameEn>Avenging Wrath</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成8点伤害，随机分配给敌方角色。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Avenging Wrath.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>231</id>
+    <nameCn>提里奥·弗丁</nameCn>
+    <nameEn>Tirion Fordring</nameEn>
+    <occupation>圣骑士</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>8</mp>
+    <hp>6</hp>
+    <ap>6</ap>
+    <skillNum>3</skillNum>
+    <skillDesc>圣盾，嘲讽，亡语：装备一把5/3的灰烬使者。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Tirion Fordring.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>232</id>
+    <nameCn>风怒</nameCn>
+    <nameEn>Windfury</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从获得风怒。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Windfury.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>233</id>
+    <nameCn>石化武器</nameCn>
+    <nameEn>Rockbiter Weapon</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，使一个友方角色获得+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Rockbiter Weapon.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>234</id>
+    <nameCn>妖术</nameCn>
+    <nameEn>Hex</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从变形成为一个0/1并具有嘲讽的青蛙。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hex.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>235</id>
+    <nameCn>冰霜震击</nameCn>
+    <nameEn>Frost Shock</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对一个敌方角色造成1点伤害，并使其冻结。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frost Shock.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>236</id>
+    <nameCn>先祖治疗</nameCn>
+    <nameEn>Ancestral Healing</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>为一个随从恢复所有生命值并使其获得嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancestral Healing.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>237</id>
+    <nameCn>风语者</nameCn>
+    <nameEn>Windspeaker</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从获得风怒。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Windspeaker.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>238</id>
+    <nameCn>无羁元素</nameCn>
+    <nameEn>Unbound Elemental</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你使用一张具有过载的牌，便获得+1/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Unbound Elemental.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>239</id>
+    <nameCn>图腾之力</nameCn>
+    <nameEn>Totemic Might</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使你的图腾获得+2生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Totemic Might.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>240</id>
+    <nameCn>雷铸战斧</nameCn>
+    <nameEn>Stormforged Axe</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>装备</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>过载：（1）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Stormforged Axe.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>241</id>
+    <nameCn>闪电箭</nameCn>
+    <nameEn>Lightning Bolt</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>造成3点伤害，过载：（1）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lightning Bolt.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>242</id>
+    <nameCn>叉状闪电</nameCn>
+    <nameEn>Forked Lightning</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对2个随机敌方随从造成2点伤害，过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Forked Lightning.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>243</id>
+    <nameCn>火舌图腾</nameCn>
+    <nameEn>Flametongue Totem</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>相邻的随从获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Flametongue Totem.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>244</id>
+    <nameCn>火元素</nameCn>
+    <nameEn>Fire Elemental</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>6</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Fire Elemental.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>245</id>
+    <nameCn>大地震击</nameCn>
+    <nameEn>Earth Shock</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>沉默一个随从，然后对其造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Earth Shock.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>246</id>
+    <nameCn>尘魔</nameCn>
+    <nameEn>Dust Devil</nameEn>
+    <occupation>萨满</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>4</hp>
+    <ap>3</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>风怒，过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Dust Devil.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>247</id>
+    <nameCn>嗜血</nameCn>
+    <nameEn>Bloodlust</nameEn>
+    <occupation>萨满</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，使你的随从获得+3攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bloodlust.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>248</id>
+    <nameCn>法力之潮图腾</nameCn>
+    <nameEn>Mana Tide Totem</nameEn>
+    <occupation>萨满</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>在你的回合结束时，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mana Tide Totem.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>249</id>
+    <nameCn>闪电风暴</nameCn>
+    <nameEn>Lightning Storm</nameEn>
+    <occupation>萨满</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对所有敌方随从造成2到3点伤害，过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lightning Storm.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>250</id>
+    <nameCn>熔岩爆裂</nameCn>
+    <nameEn>Lava Burst</nameEn>
+    <occupation>萨满</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>造成5点伤害，过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lava Burst.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>251</id>
+    <nameCn>野性狼魂</nameCn>
+    <nameEn>Feral Spirit</nameEn>
+    <occupation>萨满</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>召唤2个2/3并具有嘲讽的幽灵狼。过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Feral Spirit.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>252</id>
+    <nameCn>先祖之魂</nameCn>
+    <nameEn>Ancestral Spirit</nameEn>
+    <occupation>萨满</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>选择一个随从，当该随从被消灭时，它将返回战场。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancestral Spirit.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>253</id>
+    <nameCn>视界术</nameCn>
+    <nameEn>Far Sight</nameEn>
+    <occupation>萨满</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抽一张牌，该牌的法力值消耗减少（3）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Far Sight.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>254</id>
+    <nameCn>土元素</nameCn>
+    <nameEn>Earth Elemental</nameEn>
+    <occupation>萨满</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>8</hp>
+    <ap>7</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>嘲讽，过载：（3）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Earth Elemental.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>255</id>
+    <nameCn>毁灭之锤</nameCn>
+    <nameEn>Doomhammer</nameEn>
+    <occupation>萨满</occupation>
+    <rare>史诗</rare>
+    <type>装备</type>
+    <mp>5</mp>
+    <hp>8</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>风怒，过载：（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Doomhammer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>256</id>
+    <nameCn>风领主奥拉基尔</nameCn>
+    <nameEn>Al'Akir the Windlord</nameEn>
+    <occupation>萨满</occupation>
+    <rare>传说</rare>
+    <type></type>
+    <mp>8</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum>4</skillNum>
+    <skillDesc>风怒，冲锋，圣盾，嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Al_Akir the Windlord.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>257</id>
+    <nameCn>精神控制</nameCn>
+    <nameEn>Mind Control</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>10</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>获得一个敌方随从的控制权。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mind Control.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>258</id>
+    <nameCn>先知维纶</nameCn>
+    <nameEn>Prophet Velen</nameEn>
+    <occupation>牧师</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>7</hp>
+    <ap>7</ap>
+    <skillNum></skillNum>
+    <skillDesc>使你的法术牌和英雄技能的伤害和治疗效果翻倍。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Prophet Velen.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>259</id>
+    <nameCn>圣殿执行者</nameCn>
+    <nameEn>Temple Enforcer</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>6</hp>
+    <ap>6</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从获得+3生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Temple Enforcer.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>260</id>
+    <nameCn>秘教暗影祭司</nameCn>
+    <nameEn>Cabal Shadow Priest</nameEn>
+    <occupation>牧师</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：获得一个攻击力小于或等于2的敌方随从的控制权。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cabal Shadow Priest.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>261</id>
+    <nameCn>神圣之火</nameCn>
+    <nameEn>Holy Fire</nameEn>
+    <occupation>牧师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成5点伤害。为你的英雄恢复5点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Holy Fire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>262</id>
+    <nameCn>神圣新星</nameCn>
+    <nameEn>Holy Nova</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有敌方角色造成2点伤害，为所有友方角色恢复2点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Holy Nova.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>263</id>
+    <nameCn>光耀之子</nameCn>
+    <nameEn>Lightspawn</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>该随从的攻击力等同于其生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lightspawn.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>264</id>
+    <nameCn>暗影狂乱</nameCn>
+    <nameEn>Shadow Madness</nameEn>
+    <occupation>牧师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>直到回合结束，获得一个攻击力小于或等于3的敌方随从的控制权。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadow Madness.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>265</id>
+    <nameCn>群体驱散</nameCn>
+    <nameEn>Mass Dispel</nameEn>
+    <occupation>牧师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>沉默所有敌方随从，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mass Dispel.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>266</id>
+    <nameCn>奥金尼灵魂祭司</nameCn>
+    <nameEn>Auchenai Soulpriest</nameEn>
+    <occupation>牧师</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>5</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的恢复生命值的牌和技能改为造成等量的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Auchenai Soulpriest.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>267</id>
+    <nameCn>控心术</nameCn>
+    <nameEn>Mindgames</nameEn>
+    <occupation>牧师</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>随机复制对手的牌库中的一张随从牌，并将其置入战场。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mindgames.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>268</id>
+    <nameCn>思维窃取</nameCn>
+    <nameEn>Thoughtsteal</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>复制对手的牌库中的2张牌，并将其置入你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Thoughtsteal.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>269</id>
+    <nameCn>心灵之火</nameCn>
+    <nameEn>Inner Fire</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从的攻击力等同于其生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Inner Fire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>270</id>
+    <nameCn>暗影形态</nameCn>
+    <nameEn>Shadowform</nameEn>
+    <occupation>牧师</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的英雄技能变为“造成2点伤害”，如果已经处于暗影形态下：改为“造成3点伤害”。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadowform.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>271</id>
+    <nameCn>暗言术：灭</nameCn>
+    <nameEn>Shadow Word Death</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个攻击力大于或等于5的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadow Word Death.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>272</id>
+    <nameCn>暗言术：痛</nameCn>
+    <nameEn>Shadow Word Pain</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个攻击力小于或等于3的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadow Word Pain.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>273</id>
+    <nameCn>北郡牧师</nameCn>
+    <nameEn>Northshire Cleric</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>每当一个随从获得治疗时，抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Northshire Cleric.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>274</id>
+    <nameCn>心灵震爆</nameCn>
+    <nameEn>Mind Blast</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对敌方英雄造成5点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mind Blast.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>275</id>
+    <nameCn>神圣之灵</nameCn>
+    <nameEn>Divine Spirit</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从的生命值翻倍。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Divine Spirit.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>276</id>
+    <nameCn>光明之泉</nameCn>
+    <nameEn>Lightwell</nameEn>
+    <occupation>牧师</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>5</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在你的回合开始时，随机为一个受到伤害的友方角色恢复3点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Lightwell.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>277</id>
+    <nameCn>真言术：盾</nameCn>
+    <nameEn>Power Word Shield</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>使一个随从获得+2生命值。 抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Power Word Shield.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>278</id>
+    <nameCn>神圣惩击</nameCn>
+    <nameEn>Holy Smite</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Holy Smite.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>279</id>
+    <nameCn>心灵视界</nameCn>
+    <nameEn>Mind Vision</nameEn>
+    <occupation>牧师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>随机复制你的对手手牌中的一张牌，将其置入你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mind Vision.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>280</id>
+    <nameCn>沉默</nameCn>
+    <nameEn>Silence</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>沉默一个随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Silence.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>281</id>
+    <nameCn>治疗之环</nameCn>
+    <nameEn>Circle of Healing</nameEn>
+    <occupation>牧师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>为所有随从恢复4点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Circle of Healing.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>282</id>
+    <nameCn>追踪术</nameCn>
+    <nameEn>Tracking</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>查看你卡堆顶部的3张牌，抽取1张，弃掉其它2张。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Tracking.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>283</id>
+    <nameCn>森林狼</nameCn>
+    <nameEn>Timber Wolf</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的其他野兽获得+1攻击。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Timber Wolf.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>284</id>
+    <nameCn>多重射击</nameCn>
+    <nameEn>Multi-Shot</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>随机对2名敌对仆从造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Multi-Shot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>285</id>
+    <nameCn>驯兽师</nameCn>
+    <nameEn>Houndmaster</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>战吼：使1个友方野兽获得+2/+2和嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Houndmaster.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>286</id>
+    <nameCn>奥术射击</nameCn>
+    <nameEn>Arcane Shot</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcane Shot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>287</id>
+    <nameCn>关门放狗</nameCn>
+    <nameEn>Unleash the Hounds</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>战场上每有一个敌方随从，便召唤一个1/1并具有冲锋的猎犬。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Unleash the Hounds.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>288</id>
+    <nameCn>苔原犀牛</nameCn>
+    <nameEn>Tundra Rhino</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>5</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>使你的野兽获得冲锋。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Tundra Rhino.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>289</id>
+    <nameCn>饥饿的秃鹫</nameCn>
+    <nameEn>Starving Buzzard</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>你每召唤1个野兽，抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Starving Buzzard.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>290</id>
+    <nameCn>狙击</nameCn>
+    <nameEn>Snipe</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当对手打出1个仆从时，对该仆从造成4点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Snipe.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>291</id>
+    <nameCn>食腐土狼</nameCn>
+    <nameEn>Scavenging Hyena</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum></skillNum>
+    <skillDesc>每死1头野兽，获得+2/+1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Scavenging Hyena.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>292</id>
+    <nameCn>杀戮命令</nameCn>
+    <nameEn>Kill Command</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成3点伤害。如果你有野兽，那么造成5点伤害取而代之。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Kill Command.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>293</id>
+    <nameCn>猎人印记</nameCn>
+    <nameEn>Hunter's Mark</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合内，将1个仆从的生命变为1。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Hunter_s Mark.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>294</id>
+    <nameCn>冰冻陷阱</nameCn>
+    <nameEn>Freezing Trap</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当1个敌对仆从攻击时，让其返回到所有者手中，并令其消耗增加（2）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Freezing Trap.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>295</id>
+    <nameCn>爆炸陷阱</nameCn>
+    <nameEn>Explosive Trap</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当你的英雄受到攻击时，对所有敌人造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Explosive Trap.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>296</id>
+    <nameCn>致命射击</nameCn>
+    <nameEn>Deadly Shot</nameEn>
+    <occupation>猎人</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>随机摧毁1个敌对仆从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Deadly Shot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>297</id>
+    <nameCn>动物伙伴</nameCn>
+    <nameEn>Animal Companion</nameEn>
+    <occupation>猎人</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>随机召唤1头野兽宠物。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Animal Companion.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>298</id>
+    <nameCn>长鬃草原狮</nameCn>
+    <nameEn>Savannah Highmane</nameEn>
+    <occupation>猎人</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>5</hp>
+    <ap>6</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>亡语：召唤2只2/2土狼。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Savannah Highmane.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>299</id>
+    <nameCn>误导</nameCn>
+    <nameEn>Misdirection</nameEn>
+    <occupation>猎人</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当一个角色攻击你的英雄时，让他随机攻击另外一个角色取而代之。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Misdirection.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>300</id>
+    <nameCn>照明弹</nameCn>
+    <nameEn>Flare</nameEn>
+    <occupation>猎人</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>使所有仆从失去潜行效果。摧毁敌方所有奥秘。抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Flare.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>301</id>
+    <nameCn>爆炸射击</nameCn>
+    <nameEn>Explosive Shot</nameEn>
+    <occupation>猎人</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对1个仆从造成5点伤害，并对相邻目标造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Explosive Shot.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>302</id>
+    <nameCn>鹰角弓</nameCn>
+    <nameEn>Eaglehorn Bow</nameEn>
+    <occupation>猎人</occupation>
+    <rare>稀有</rare>
+    <type>装备</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>每触发1个奥秘，获得+1耐久。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Eaglehorn Bow.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>303</id>
+    <nameCn>毒蛇陷阱</nameCn>
+    <nameEn>Snake Trap</nameEn>
+    <occupation>猎人</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当你的1个仆从遭到攻击时，召唤3条1/1毒蛇。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Snake Trap.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>304</id>
+    <nameCn>角斗士的长弓</nameCn>
+    <nameEn>Gladiator's Longbow</nameEn>
+    <occupation>猎人</occupation>
+    <rare>史诗</rare>
+    <type>装备</type>
+    <mp>7</mp>
+    <hp>2</hp>
+    <ap>5</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的英雄在攻击时免疫。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Gladiator_s Longbow.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>305</id>
+    <nameCn>狂野怒火</nameCn>
+    <nameEn>Bestial Wrath</nameEn>
+    <occupation>猎人</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合内，使1个野兽获得+2攻击和免疫。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bestial Wrath.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>306</id>
+    <nameCn>暴龙王克鲁什</nameCn>
+    <nameEn>King Krush</nameEn>
+    <occupation>猎人</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>9</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冲锋</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/King Krush.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>307</id>
+    <nameCn>变形术</nameCn>
+    <nameEn>Polymorph</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从变形成为1/1的绵羊。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Polymorph.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>308</id>
+    <nameCn>火球术</nameCn>
+    <nameEn>Fireball</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成6点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Fireball.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>309</id>
+    <nameCn>奥术飞弹</nameCn>
+    <nameEn>Arcane Missiles</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成3点伤害，随机分配给敌方角色。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcane Missiles.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>310</id>
+    <nameCn>奥术智慧</nameCn>
+    <nameEn>Arcane Intellect</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抽2张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcane Intellect.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>311</id>
+    <nameCn>魔爆术</nameCn>
+    <nameEn>Arcane Explosion</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有敌方随从造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Arcane Explosion.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>312</id>
+    <nameCn>水元素</nameCn>
+    <nameEn>Water Elemental</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>6</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冻结任何受到水元素伤害的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Water Elemental.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>313</id>
+    <nameCn>巫师学徒</nameCn>
+    <nameEn>Sorcerer's Apprentice</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>2</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>你的法术的法力值消耗减少（1）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sorcerer_s Apprentice.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>314</id>
+    <nameCn>镜像</nameCn>
+    <nameEn>Mirror Image</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>召唤两个0/2，并具有嘲讽的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mirror Image.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>315</id>
+    <nameCn>镜像实体</nameCn>
+    <nameEn>Mirror Entity</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当一个敌方随从进行攻击时，召唤一个该随从的复制。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mirror Entity.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>316</id>
+    <nameCn>法力浮龙</nameCn>
+    <nameEn>Mana Wyrm</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>1</mp>
+    <hp>3</hp>
+    <ap>1</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你施放一个法术时，便获得+1攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mana Wyrm.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>317</id>
+    <nameCn>冰枪术</nameCn>
+    <nameEn>Ice Lance</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>使一个角色冻结，如果它已经被冻结，则改为对其造成4点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ice Lance.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>318</id>
+    <nameCn>寒冰护体</nameCn>
+    <nameEn>Ice Barrier</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当你的英雄受到攻击时，获得8点护甲值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ice Barrier.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>319</id>
+    <nameCn>寒冰箭</nameCn>
+    <nameEn>Frostbolt</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对一个角色造成3点伤害，并使其冻结。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frostbolt.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>320</id>
+    <nameCn>冰霜新星</nameCn>
+    <nameEn>Frost Nova</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冻结所有敌方随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Frost Nova.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>321</id>
+    <nameCn>烈焰风暴</nameCn>
+    <nameEn>Flamestrike</nameEn>
+    <occupation>法师</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>7</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对所有敌方随从造成4点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Flamestrike.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>322</id>
+    <nameCn>冰锥术</nameCn>
+    <nameEn>Cone of Cold</nameEn>
+    <occupation>法师</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>冻结一个随从和其相邻的随从，并对它们造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cone of Cold.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>323</id>
+    <nameCn>蒸发</nameCn>
+    <nameEn>Vaporize</nameEn>
+    <occupation>法师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当一个随从攻击你的英雄，将其消灭。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Vaporize.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>324</id>
+    <nameCn>肯瑞托法师</nameCn>
+    <nameEn>Kirin Tor Mage</nameEn>
+    <occupation>法师</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：在本回合中，你使用的下一个奥秘的法力值消耗为（0）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Kirin Tor Mage.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>325</id>
+    <nameCn>法术反制</nameCn>
+    <nameEn>Counterspell</nameEn>
+    <occupation>法师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当你的对手施放法术时，反制该法术。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Counterspell.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>326</id>
+    <nameCn>暴风雪</nameCn>
+    <nameEn>Blizzard</nameEn>
+    <occupation>法师</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对所有敌方随从造成2点伤害，并使其冻结。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blizzard.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>327</id>
+    <nameCn>虚灵奥术师</nameCn>
+    <nameEn>Ethereal Arcanist</nameEn>
+    <occupation>法师</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc>当你在回合结束时控制一个奥秘，该随从便获得+2/+2。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ethereal Arcanist.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>328</id>
+    <nameCn>扰咒术</nameCn>
+    <nameEn>Spellbender</nameEn>
+    <occupation>法师</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：当一个敌方法术以一个随从为目标时，召唤一个1/3的随从并使其成为新的目标。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Spellbender.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>329</id>
+    <nameCn>炎爆术</nameCn>
+    <nameEn>Pyroblast</nameEn>
+    <occupation>法师</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>10</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成10点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Pyroblast.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>330</id>
+    <nameCn>寒冰屏障</nameCn>
+    <nameEn>Ice Block</nameEn>
+    <occupation>法师</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>奥秘：每当你的英雄将要承受致命伤害时，防止这些伤害，并使其在本回合中获得免疫。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ice Block.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>331</id>
+    <nameCn>大法师安东尼达斯</nameCn>
+    <nameEn>Archmage Antonidas</nameEn>
+    <occupation>法师</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>7</hp>
+    <ap>5</ap>
+    <skillNum></skillNum>
+    <skillDesc>每当你施放一个法术时，将一张“火球术”法术牌置入你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Archmage Antonidas.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>332</id>
+    <nameCn>野性成长</nameCn>
+    <nameEn>Wild Growth</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>获得一颗空的法力水晶。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Wild Growth.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>333</id>
+    <nameCn>野性印记</nameCn>
+    <nameEn>Mark of the Wild</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>使1个仆从获得嘲讽以及+2/+2。（+2攻击/+2生命）</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mark of the Wild.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>334</id>
+    <nameCn>激活</nameCn>
+    <nameEn>Innervate</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>仅在本回合中，获得2个法力水晶。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Innervate.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>335</id>
+    <nameCn>月火术</nameCn>
+    <nameEn>Moonfire</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Moonfire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>336</id>
+    <nameCn>爪击</nameCn>
+    <nameEn>Claw</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使你的英雄获得2点护甲值，并在本回合中获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Claw.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>337</id>
+    <nameCn>治疗之触</nameCn>
+    <nameEn>Healing Touch</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>恢复8点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Healing Touch.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>338</id>
+    <nameCn>野蛮咆哮</nameCn>
+    <nameEn>Savage Roar</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，使你的所有角色获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Savage Roar.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>339</id>
+    <nameCn>横扫</nameCn>
+    <nameEn>Swipe</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对一个敌人造成4点伤害，并对所有其他敌人造成1点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Swipe.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>340</id>
+    <nameCn>星火术</nameCn>
+    <nameEn>Starfire</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>造成5点伤害，抽1张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Starfire.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>341</id>
+    <nameCn>埃隆巴克保护者</nameCn>
+    <nameEn>Ironbark Protector</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>免费</rare>
+    <type>随从</type>
+    <mp>8</mp>
+    <hp>8</hp>
+    <ap>8</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>嘲讽</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ironbark Protector.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>342</id>
+    <nameCn>丛林之魂</nameCn>
+    <nameEn>Soul of the Forest</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>使你的随从获得“亡语：召唤一个2/2的树人。”</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Soul of the Forest.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>343</id>
+    <nameCn>野性之力</nameCn>
+    <nameEn>Power of the Wild</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：使你的随从获得+1/+1；或者召唤一个3/2的猎豹。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Power of the Wild.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>344</id>
+    <nameCn>自然平衡</nameCn>
+    <nameEn>Naturalize</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>消灭一个随从，你的对手抽两张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Naturalize.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>345</id>
+    <nameCn>利爪德鲁伊</nameCn>
+    <nameEn>Druid of the Claw</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：冲锋；或者+2生命值并具有嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Druid of the Claw.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>346</id>
+    <nameCn>愤怒</nameCn>
+    <nameEn>Wrath</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：对一个随从造成3点伤害；或者造成1点伤害并抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Wrath.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>347</id>
+    <nameCn>自然印记</nameCn>
+    <nameEn>Mark of Nature</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：使一个随从获得+4攻击力；或者+4生命值并具有嘲讽。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Mark of Nature.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>348</id>
+    <nameCn>星辰坠落</nameCn>
+    <nameEn>Starfall</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：对一个随从造成5点伤害；或者对所有敌方随从造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Starfall.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>349</id>
+    <nameCn>滋养</nameCn>
+    <nameEn>Nourish</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：获得2个法力水晶；或者抽3张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Nourish.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>350</id>
+    <nameCn>野蛮之击</nameCn>
+    <nameEn>Savagery</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对一个随从造成等同于你的英雄攻击力的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Savagery.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>351</id>
+    <nameCn>丛林守护者</nameCn>
+    <nameEn>Keeper of the Grove</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>4</mp>
+    <hp>4</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：造成2点伤害；或者沉默一个随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Keeper of the Grove.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>352</id>
+    <nameCn>撕咬</nameCn>
+    <nameEn>Bite</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>4</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，使你的英雄获得+4攻击力和4点护甲值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Bite.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>353</id>
+    <nameCn>自然之力</nameCn>
+    <nameEn>Force of Nature</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>召唤3个2/2并具有冲锋的树人，在回合结束时，消灭这些树人。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Force of Nature.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>354</id>
+    <nameCn>战争古树</nameCn>
+    <nameEn>Ancient of War</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：+5生命值并具有嘲讽；或者+5攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancient of War.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>355</id>
+    <nameCn>知识古树</nameCn>
+    <nameEn>Ancient of Lore</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>7</mp>
+    <hp>5</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：抽2张牌；或恢复5点生命值。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Ancient of Lore.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>356</id>
+    <nameCn>塞纳留斯</nameCn>
+    <nameEn>Cenarius</nameEn>
+    <occupation>德鲁伊</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>8</mp>
+    <hp>8</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抉择：使你的所有其他随从获得+2/+2；或者召唤2个2/2并具有嘲讽的树人。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cenarius.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>357</id>
+    <nameCn>影袭</nameCn>
+    <nameEn>Sinister Strike</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对敌方英雄造成3点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sinister Strike.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>358</id>
+    <nameCn>闷棍</nameCn>
+    <nameEn>Sap</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>将一个敌方随从移回其拥有者的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sap.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>359</id>
+    <nameCn>致命药膏</nameCn>
+    <nameEn>Deadly Poison</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使你的武器获得+2攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Deadly Poison.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>360</id>
+    <nameCn>背刺</nameCn>
+    <nameEn>Backstab</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>对1名敌对仆从造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Backstab.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>361</id>
+    <nameCn>刺杀</nameCn>
+    <nameEn>Assassinate</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>5</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>消灭一个敌方随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Assassinate.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>362</id>
+    <nameCn>消失</nameCn>
+    <nameEn>Vanish</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>6</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>将所有随从移回其拥有者的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Vanish.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>363</id>
+    <nameCn>刺骨</nameCn>
+    <nameEn>Eviscerate</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>造成2点伤害。连击：造成4点伤害取而代之。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Eviscerate.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>364</id>
+    <nameCn>疾跑</nameCn>
+    <nameEn>Sprint</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>7</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>抽4张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Sprint.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>365</id>
+    <nameCn>刺客之刃</nameCn>
+    <nameEn>Assassin's Blade</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>装备</type>
+    <mp>5</mp>
+    <hp>4</hp>
+    <ap>3</ap>
+    <skillNum></skillNum>
+    <skillDesc></skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Assassin_s Blade.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>366</id>
+    <nameCn>刀扇</nameCn>
+    <nameEn>Fan of Knives</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>免费</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对所有敌方随从造成1点伤害，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Fan of Knives.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>367</id>
+    <nameCn>暗影步</nameCn>
+    <nameEn>Shadowstep</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个友方随从移回你的手牌，它的法力值消耗减少（2）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shadowstep.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>368</id>
+    <nameCn>毒刃</nameCn>
+    <nameEn>Shiv</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>造成1点伤害，抽一张牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Shiv.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>369</id>
+    <nameCn>迪菲亚头目</nameCn>
+    <nameEn>Defias Ringleader</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>3</hp>
+    <ap>2</ap>
+    <skillNum>2</skillNum>
+    <skillDesc>连击：召唤一个2/1的迪菲亚强盗。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Defias Ringleader.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>370</id>
+    <nameCn>隐藏</nameCn>
+    <nameEn>Conceal</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>直到你的下个回合，使所有友方随从获得潜行。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Conceal.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>371</id>
+    <nameCn>冷血</nameCn>
+    <nameEn>Cold Blood</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>1</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>使一个随从获得+2攻击力；连击：改为获得+4攻击力。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Cold Blood.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>372</id>
+    <nameCn>背叛</nameCn>
+    <nameEn>Betrayal</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>普通</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>一个敌方随从对其相邻的随从造成等同于其攻击力的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Betrayal.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>373</id>
+    <nameCn>军情七处特工</nameCn>
+    <nameEn>SI7 Agent</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>3</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>连击：造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/SI7 Agent.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>374</id>
+    <nameCn>毁灭之刃</nameCn>
+    <nameEn>Perdition's Blade</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>稀有</rare>
+    <type>装备</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：造成1点伤害。连击：改为造成2点伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Perdition_s Blade.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>375</id>
+    <nameCn>伪装大师</nameCn>
+    <nameEn>Master of Disguise</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>稀有</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>3</hp>
+    <ap>4</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>战吼：使一个友方随从获得潜行。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Master of Disguise.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>376</id>
+    <nameCn>裂颅之击</nameCn>
+    <nameEn>Headcrack</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>3</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>对敌方英雄造成2点伤害；连击：在下个回合将其移回你的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Headcrack.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>377</id>
+    <nameCn>剑刃乱舞</nameCn>
+    <nameEn>Blade Flurry</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>稀有</rare>
+    <type>法术</type>
+    <mp>2</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>摧毁你的武器，对所有敌方角色造成等同于其攻击力的伤害。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Blade Flurry.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>378</id>
+    <nameCn>伺机待发</nameCn>
+    <nameEn>Preparation</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>史诗</rare>
+    <type>法术</type>
+    <mp>0</mp>
+    <hp>0</hp>
+    <ap>0</ap>
+    <skillNum></skillNum>
+    <skillDesc>在本回合中，你所施放的下一个法术的法力值消耗减少（3）点。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Preparation.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>379</id>
+    <nameCn>耐心的刺客</nameCn>
+    <nameEn>Patient Assassin</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>2</mp>
+    <hp>1</hp>
+    <ap>1</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>潜行，消灭任何受到该随从伤害的随从。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Patient Assassin.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>380</id>
+    <nameCn>劫持者</nameCn>
+    <nameEn>Kidnapper</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>史诗</rare>
+    <type>随从</type>
+    <mp>6</mp>
+    <hp>3</hp>
+    <ap>5</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>连击：将一个随从移回其拥有者的手牌。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Kidnapper.png</imgUrl>
+  </cardItem>
+  <cardItem>
+    <id>381</id>
+    <nameCn>艾德温·范克里夫</nameCn>
+    <nameEn>Edwin VanCleef</nameEn>
+    <occupation>盗贼</occupation>
+    <rare>传说</rare>
+    <type>随从</type>
+    <mp>3</mp>
+    <hp>2</hp>
+    <ap>2</ap>
+    <skillNum>1</skillNum>
+    <skillDesc>连击：在本回合中，每有一张其他牌在该牌前被使用，便获得+2/+2。</skillDesc>
+    <imgUrl>http://img.dwstatic.com/ls/pic/card/Edwin VanCleef.png</imgUrl>
+  </cardItem>
+</card-list>

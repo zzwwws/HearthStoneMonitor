@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="12dip"
+    android:paddingBottom="12dip"
+    android:background="#7b2410" >
+
+    <ImageView
+        android:id="@+id/img_actionbar_lf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:src="@drawable/topbar_btn_back"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/txt_actionbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="竞技场模拟器"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#fffffffe" />
+
+    <ImageView
+        android:id="@+id/img_actionbar_rt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dip"
+        android:src="@drawable/actionbar_refresh" />
+
+</RelativeLayout>
